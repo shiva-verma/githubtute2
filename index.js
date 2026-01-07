@@ -1,3 +1,3 @@
-let msg = "hello elcome to githb tutorial"
+let msg = "hello welcome to github tutorial"
 
 console.log(msg);
